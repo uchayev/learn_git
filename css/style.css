@@ -2,6 +2,7 @@ body {
   background-color: #adeff7;
 }
 h2 {
+  /* Probably this header is very big */
   font-size: 25px;
 }
 p {
